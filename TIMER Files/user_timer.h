@@ -4,12 +4,8 @@
 * Created By	: Anup Silvan Mascarenhas
 * Module
 * Description	: Header file for user_timer.c
-				  Defines constants and macros for user_timer.c.
+*				  Defines constants and macros for user_timer.c.
 *
-* REVISION HISTORY
-* Version		: 1.0
-* Revision Date	: 30/10/2022.
-* Changes		: NO.
 *****************************************************************************/
 #ifndef USER_TIMER_H_
 #define USER_TIMER_H_
